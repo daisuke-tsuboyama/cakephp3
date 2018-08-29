@@ -1,6 +1,6 @@
 # CakePHP specific files #
 ##########################
-/vendor/*
+#/vendor/*
 #/config/app.php
 /config/.env
 /tmp/cache/*
